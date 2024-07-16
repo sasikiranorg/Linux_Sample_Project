@@ -1,0 +1,23 @@
+#!/bin/bash
+
+a=$1
+b=$3
+c=$2
+d=$4
+e=$5
+f=$6
+g=$7
+h=$8
+i=$9
+j=$0
+
+echo "$1"
+echo "$2"
+echo "$5"
+echo "$3"
+echo "$4"
+echo "$6"
+echo "$8"
+echo "$7"
+echo "$9"
+echo "$0"

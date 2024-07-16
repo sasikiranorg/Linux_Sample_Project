@@ -1,0 +1,9 @@
+#!/bin/bash
+
+a=5
+echo "$a"
+b=10
+echo "$b"
+echo "we are adding both a and b values"
+c=$((a+b))
+echo "The value is = '$c'"

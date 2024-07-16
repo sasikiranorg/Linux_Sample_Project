@@ -1,0 +1,8 @@
+#!/bin/bash
+
+echo "Here i am writing a sample file how to create through the vim command"
+echo "creating a directory"
+mkdir NewFiles
+echo "NewFiles directory created Successfully......"
+touch file197.txt
+echo "File created Successfully....!!!!!!!!!!!!!!"
